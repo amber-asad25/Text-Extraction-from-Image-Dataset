@@ -1,5 +1,5 @@
 # Text-Extraction-from-Image-Dataset:  
-* Build a model to detect and recognize text from Images. 
+* Build a Computer Vision project to detect and recognize text from Images. 
 * TextOCR dataset is used which provides ~1M high quality word annotations on TextVQA1000.
 * Three build-in libraries i.e. pytesseract, easyocr, keras_ocr for optical character recognition are compared to find the most accurate one.
 
