@@ -3,6 +3,9 @@
 * TextOCR dataset is used which provides ~1M high quality word annotations on TextVQA1000.
 * Three build-in libraries i.e. pytesseract, easyocr, keras_ocr for optical character recognition are compared to find the most accurate one.
 
+## Credit to youtube channel
+[Medallion Data Science](https://www.youtube.com/channel/UCxladMszXan-jfgzyeIMyvw)
+
 ## Data Collection
 Kaggle [Dataset](https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset?select=annot.csv) is being loaded and then fully analyzed. 
 The dataset contains six columns:
